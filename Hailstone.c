@@ -18,7 +18,5 @@ int main(){
     int num;
     scanf("%d", &num);
     hail(num);
-    printf("1");
-
     return 0;
 }
