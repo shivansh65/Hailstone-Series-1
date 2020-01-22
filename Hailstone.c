@@ -13,7 +13,6 @@ int hail(int n){
     }
 }
 
-#include <stdio.h>
 int main(){
 
     int num;
